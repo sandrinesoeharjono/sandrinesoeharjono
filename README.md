@@ -11,9 +11,9 @@
 👩‍💻 Anyway, this GitHub comprises of side projects & examples showcasing a few of my data science, bioinformatic & general programming skills.
 
 💬 Don't hesitate to reach out to me if you have any questions, would like to discuss, or even collaborate on a cool project! I'm always open to new opportunities and connections.  
-My email: `sandrinesoeharjono@hotmail.com`  
-My LinkedIn: [click here](https://www.linkedin.com/in/sandrine-soeharjono-917346193/)  
+* My email: `sandrinesoeharjono@hotmail.com`  
+* My LinkedIn: [click here](https://www.linkedin.com/in/sandrine-soeharjono-917346193/)  
 
 Cheers!
 
-Sandrine ✨
+Sandrine Soeharjono ✨
