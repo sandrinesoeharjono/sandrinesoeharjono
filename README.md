@@ -1,10 +1,10 @@
 ## Welcome!
 
-⚡ My name is Sandrine (she/her) and I'm a data scientist / computational biologist living in Montréal, QC.
+⚡ My name is Sandrine (she/her) and I'm a computational scientist in Montréal, QC.
 
 🔭 I studied Quantitative & Computational Biology for both my BSc and MSc, during which I fell in love with everything related to data science applied to biological problems.
 
-🔍 I'm currently fascinated about the innovative challenges at the intersection of software engineering, bioinformatics and health sciences. I love to contribute to multi-omic solutions on high-dimensional datasets to enable the propulsion of clinical trials, drug discovery and personalized patient therapy. I've also discovered that software development is ~really~ cool, and am always trying to learn more about it.
+🔍 I'm currently fascinated about the innovative challenges at the intersection of software engineering, bioinformatics and environmental/health sciences. I love to contribute to multi-omic solutions on high-dimensional datasets to enable the propulsion of clinical trials, drug discovery and personalized patient therapy. I've also discovered that software development is ~really~ cool, and am always trying to learn more about it.
 
 🔗 I thrive to help bridge the gap between professionals of different industries, since I strongly believe in harnessing the strength of interdisciplinarity to drive research.
 
